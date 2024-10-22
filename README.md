@@ -1,0 +1,7 @@
+- Nupud ei ole disainiga 1:1. Nuppude ja linkide hoverid ei vasta disainile.
+- Flipcardi blokis link viib järgmisesse sektsiooni. Mobiilis ei tööta flipcardi funktsionaalsus.
+- Mobiilsed stiilid kuni 375px. Suurematel ekraanidel on layout katki.
+- Kalkulaator: kui lisada tühjasid ridu ja ühelt realt 0 ära kustutada, siis liidetakse kõik nullid kokku ja summa on näiteks 000000000000.
+- Komakohti ei ümardata.
+- Suured summad teevad kalkulaatori layouti katki.
+- Accessibility telefoninumber katmata.
